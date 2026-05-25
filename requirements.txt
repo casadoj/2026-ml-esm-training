@@ -10,3 +10,8 @@ anemoi-graphs
 nbformat
 ipywidgets
 pytorch_lightning
+cdsapi
+earthkit-data
+earthkit-plots
+xarray
+zarr
