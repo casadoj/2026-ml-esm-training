@@ -1,0 +1,12 @@
+torch
+torchvision
+einops
+netCDF4
+torch-geometric
+anemoi-graphs
+nbformat
+ipywidgets
+pytorch_lightning
+numpy
+matplotlib
+scikit-learn

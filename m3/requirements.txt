@@ -1,0 +1,7 @@
+earthkit-data
+earthkit-plots
+xarray
+zarr
+matplotlib
+numpy
+cdsapi
