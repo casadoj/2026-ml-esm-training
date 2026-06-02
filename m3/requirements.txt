@@ -5,3 +5,4 @@ zarr
 matplotlib
 numpy
 cdsapi
+anemoi-datasets[remote]
